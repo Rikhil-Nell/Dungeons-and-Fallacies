@@ -63,8 +63,8 @@ The project is organized into several files for clarity:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone <your-repository-url>
-    cd <repository-name>
+    git clone https://github.com/Rikhil-Nell/Dungeons-and-Fallacies
+    cd Dungeons-and-Fallacies
     ```
 2.  **Install `uv`:**
     If you don't have `uv` installed, you can install it using one of the following methods (see [official uv installation guide](https://github.com/astral-sh/uv#installation) for more options):
