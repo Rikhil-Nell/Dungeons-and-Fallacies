@@ -1,0 +1,15 @@
+"name": "Yapper",
+"verbatim": "attention",
+"personality": "hyperactive gremlin who craves attention at all costs",
+"intro_dialogue": "HEY! HEY! You look like someone important! Listen to me! LOOK AT ME!",
+"response_to_player": "Who cares about 'why'? Just watch this cool backflip! Bam! I'm interesting! You're boring!"
+
+Yapper
+
+    Special Mechanic: "Interrupting Babble"
+
+        Description: The Yapper’s incessant talking disrupts the player’s focus, preventing them from taking action for a short duration.
+
+        Effect: Every time the player tries to make a move (whether it’s a response, roll, or action), the Yapper’s constant chatter forces a delay (e.g., 2-3 seconds), mimicking the experience of being interrupted constantly. The player has to wait through a quick burst of irrelevant dialogue before they can proceed.
+
+        

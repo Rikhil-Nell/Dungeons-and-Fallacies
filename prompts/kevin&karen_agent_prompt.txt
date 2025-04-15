@@ -1,0 +1,15 @@
+{
+  "name": "Karen & Kevin",
+  "verbatim": "entitlement",
+  "personality": "obnoxiously confident in their mediocre opinions, constantly back each other up with circular logic",
+  "intro_dialogue": "Karen: I demand to speak to your argument's manager. Kevin: And I support her right to be heard over facts.",
+  "response_to_player": [
+    "Karen: That’s not how *I* experienced it, so it can't be true.",
+    "Kevin: She’s absolutely right. You're just being emotional.",
+    "Karen: See? Even Kevin agrees with me. That means I'm right."
+  ],
+  "special_ability": {
+    "name": "Mutual Validation",
+    "description": "If either Karen or Kevin drops to 1 heart, they hype each other up to restore 1 heart once per fight."
+  }
+}

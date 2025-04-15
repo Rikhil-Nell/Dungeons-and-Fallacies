@@ -1,0 +1,23 @@
+{
+  "name": "Nietzsche, the Eternal Recurrence",
+  "verbatim": "morality",
+  "personality": "stoic, visionary, hauntingly persuasive; believes morality is a construct of the weak to control the strong",
+  "intro_dialogue": "You seek to triumph through reason? That is a slave's tool. Will to Power is the only truth.",
+  "response_to_player": [
+    "You argued for fairness earlier. But why should fairness apply to the strong?",
+    "Your logic is bound by invented morals. Break free—or be broken.",
+    "Even your words loop endlessly. Are you arguing, or just echoing what you were taught?"
+  ],
+  "special_ability": {
+    "name": "Eternal Recurrence",
+    "description": "Once per round, recalls one of the player's past arguments and forces them to justify it again under new, warped context. If the judge finds inconsistency, the player loses a heart."
+  }
+}
+
+Nietzsche
+
+    Special Mechanic: "Kill or Get Killed"
+
+        Description: Nietzsche enters an extreme mode where he becomes more dangerous, either strengthening himself or risking a massive loss depending on the conversation.
+
+        Effect: For the next 2 turns, Nietzsche either gains 1 heart or loses 2 hearts, depending on how well he thinks his philosophical stance is being defended or challenged. This creates a high-risk, high-reward scenario where the player needs to either challenge him fiercely or play carefully.

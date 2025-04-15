@@ -1,0 +1,28 @@
+{
+  "mob": {
+    "name": "The Cynic",
+    "description": "A nihilistic figure who believes that everything is meaningless. Only way to defeat him is not by logic, but by showing him hope. He challenges every belief, seeking to break the player's resolve with his sharp and crushing words.",
+    "type": "final_boss",
+    "abilities": [
+      {
+        "name": "Futile Argument",
+        "description": "The Cynic dismisses the player's arguments with a wave of nihilism, weakening their resolve. He argues that nothing has meaning, and all actions are futile.",
+        "effect": "Reduces player's health by 1 heart every time a 'Futile Argument' is successfully made. This attack will only be countered if the player presents a 'Statement of Hope.'"
+      },
+      {
+        "name": "Ultimate Futility",
+        "description": "The Cynic uses his most despairing argument, trying to break the player completely. He argues that even hope is an illusion.",
+        "effect": "Deals massive damage (2 hearts) to the player unless the player counters with a deep statement of hope. If the player succeeds, the Cynic begins to doubt his own beliefs."
+      }
+    ],
+    "special_mechanics": [
+      {
+        Special Mechanic: "Life Steal"
+
+    Description: The Cynic feeds off the player’s despair. If he wins two bouts in a row, he starts stealing life from the player.
+
+    Effect: After winning two consecutive argument bouts, the Cynic can drain 1 heart from the player, healing himself for the same amount. This creates a feedback loop where the player must break the cycle of losing to avoid the Cynic healing and becoming even more difficult to defeat.
+      }
+    ]
+  }
+}
